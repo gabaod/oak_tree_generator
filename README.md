@@ -11,7 +11,7 @@ Blender Setup Usage:<br><br>
 6. Now click the new text up top as you did before and paste the contents of oak_tree_shader.py<br>
 7. Under # CONFIG change season to be 0.0 for spring, 1.0 for summer or 2.0 for fall.
 8. Click the play icon on this script and it will bake all your pngs and export them for you *NOTE this will take some time as its processing the pngs and you can view status in console window<br>
-9. If you dont like how the materials are, you can always go into the shading tab in blender and change the node settings.<br><br><br>
+9. If you dont like how the materials are, you can always go into the shading tab in blender and change the node settings. Will have to manually rebake the images after<br><br><br>
 
 Unity Setup Usage:<br><br>
 1. Add the shader files to your assets in unity<br>
